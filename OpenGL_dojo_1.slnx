@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="OpenGL_dojo_1.vcxproj" Id="b07cc64c-256d-4eb8-af22-ef084d8ba9b7" />
+</Solution>
